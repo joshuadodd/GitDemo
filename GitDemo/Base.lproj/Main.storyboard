@@ -36,6 +36,9 @@
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="PWc-p4-bNZ" secondAttribute="bottom" constant="323" id="rdO-AU-Rdh"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="textLabel" destination="PWc-p4-bNZ" id="BF0-l4-jaQ"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
